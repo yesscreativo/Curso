@@ -3,3 +3,8 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     color: deeppink;
 }
+header ul li{
+    display: inline-block;
+    margin: 0 10px;
+    color: #000;
+}
