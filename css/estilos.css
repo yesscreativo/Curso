@@ -2,9 +2,15 @@ body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: deeppink;
+    margin: 0;
+    padding: 0;
 }
 header ul li{
     display: inline-block;
     margin: 0 10px;
-    color: #000;
+    color: #fff;
+}
+header ul{
+    background-color: deeppink;
+    padding: 10px 0;
 }
