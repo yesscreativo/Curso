@@ -12,7 +12,11 @@ header ul li{
     color: #fff;
 }
 header ul{
+<<<<<<< HEAD
     background-color: blue;
+=======
+    background-color: red;
+>>>>>>> cabecera
     padding: 10px 0;
     box-shadow: 0 0 10px rgba(0,0,0,0.2);
 }
