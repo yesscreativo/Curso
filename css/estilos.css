@@ -14,4 +14,5 @@ header ul li{
 header ul{
     background-color: deeppink;
     padding: 10px 0;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
 }
